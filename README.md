@@ -1,2 +1,2 @@
-# scaling-waddle
-The Outlook Plugin Repository
+# outlook-add-in
+ 
